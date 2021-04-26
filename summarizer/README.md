@@ -11,6 +11,7 @@ The following metrics has been used to evaluate:
 - Roguel
 
 ## TODO
+- [x] Inference Script for simple transformers
 - [ ] Write down model comparision
 - [ ] Fix code for normal transformers to work training 
 - [ ] Fix tqdm loader to add loss
