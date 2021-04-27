@@ -4,6 +4,7 @@ The following repository contains the code for testing out nmt using the transfo
 Note: The code has problems on my machine due to mBART-50 large requirements to run, will have to figure another plan maybe using t5-small
 
 ## ToDO
-- [ ] FineTune MarianMT Model
+- [x] FineTune MarianMT Model
+- [x] Added inference and evaluation
 - [ ] Fineout sacreablue problem
-- [ ] Fine a chance to check out simple transformers finetune
+- [x] Fine a chance to check out simple transformers finetune
