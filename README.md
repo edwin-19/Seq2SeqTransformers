@@ -5,3 +5,4 @@ More details are at each of the following folders:
 - Summarizer
 - Translation
 - Question Answering
+- Sentiment Analysis (T5 Model)
