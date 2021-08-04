@@ -2,3 +2,4 @@
 
 # ToDO
 - [x] Train T5 Model for text classification
+- [x] T5 Inference Script
