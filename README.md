@@ -6,3 +6,4 @@ More details are at each of the following folders:
 - Translation
 - Question Answering
 - Sentiment Analysis (T5 Model)
+- Token Classification 
