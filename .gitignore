@@ -2,3 +2,4 @@ data/
 weights/
 .ipynb_checkpoints/
 model/
+lightning_logs
